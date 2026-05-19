@@ -1,0 +1,4 @@
+repo=OrMizrahi12/medipet-srs-concept
+cleared_at_utc=2026-05-19T09:02:52.162667+00:00
+action=disable_pages_and_force_push_minimal_main
+protocol=SRS
